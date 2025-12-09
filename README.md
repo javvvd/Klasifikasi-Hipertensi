@@ -1,2 +1,2 @@
-# Klasifikasi-Hipertensi
+# Klasifikasi Hipertensi
 KLASIFIKASI RISIKO HIPERTENSI MENGGUNAKAN ALGORITMA RANDOM FOREST
